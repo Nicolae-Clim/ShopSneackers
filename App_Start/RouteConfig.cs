@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace SimpleSite
+namespace ShopSneackers
 {
     public class RouteConfig
     {
@@ -21,4 +21,4 @@ namespace SimpleSite
         }
     }
 }
-ывапролджэ
+
